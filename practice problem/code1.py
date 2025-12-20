@@ -1,3 +1,5 @@
+# word search "python" in txt file
+
 data=True
 line=1
 word="python"
